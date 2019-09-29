@@ -1,26 +1,7 @@
  @charset "utf-8";
 /* CSS Document */
 
-/*------------------------------------------------------------------
-[Table of contents]
-0. Fonts
-1. Clearfix
-2. Preloader
-3. Typography
-4. Headings
-5. Navigation
-6. Main Content
-7. Content Elements
-8. Intro Backgrounds
-9. Icons
-10. Images & Hover Animation
-11. Footer
-12. Lists
-13. Blog
-14. Googlemaps
-15. Banner Text and Block Fadein
--------------------------------------------------------------------*/
-
+/
 
 
 /* =1. Clearfix
@@ -717,7 +698,7 @@ header .phone-number i.fa {
 }
 #main-nav ul li a {
 	position: relative;
-	color: rgba(43,43,43,0.7);
+	color: #c9170a;
 	padding: 9px 0 10px;
 	display: block;
 	font-size: 24px !important;
